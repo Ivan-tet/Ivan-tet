@@ -1,6 +1,6 @@
  <h1>Hello Everyone:)</h1> 
   
- <h4>I'm a 4th year Computer Science student</h4>
+ <h4>I'm a Computer Science engineer</h4>
  <p><h2><img src = "https://user-images.githubusercontent.com/68805682/186970854-37b53ec9-b2b8-463b-8cc2-449cd5bf3a1e.png" width="30" height="30">IT skills</h2></p>
  <i>Python - Pandas, NumPy</i>
  <i><p>R</p></i>
